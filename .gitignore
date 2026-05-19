@@ -8,3 +8,4 @@ client/node_modules
 ml-service/.idea
 ml-service/.venv
 ml-service/__pycache__
+ml-service/models.pkl
